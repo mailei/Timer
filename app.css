@@ -1,0 +1,14 @@
+#countDownTime {
+  font-family: "pata";
+  background-color:#eee;
+  font-size:30vw;
+  text-align:center;
+  user-select:none;
+-webkit-mask-image:-webkit-linear-gradient(top, rgba(0,0,0,1), rgba(0,0,0,0.6) 55%, rgba(0,0,0,1) 56%, rgba(0,0,0,0.6));
+}
+@font-face {
+    font-family: "pata";
+    src: url('patapata-number-Regular.woff') format('woff');
+    text-decoration: none;
+    font-style: normal;
+}
